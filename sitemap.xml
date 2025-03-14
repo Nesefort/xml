@@ -5,8 +5,6 @@
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
 <url>
   <loc>https://www.nesefortgroupeservices.com/</loc>
   <lastmod>2025-03-13T15:51:17+00:00</lastmod>
@@ -42,6 +40,4 @@
   <lastmod>2025-03-13T15:51:17+00:00</lastmod>
   <priority>0.80</priority>
 </url>
-
-
 </urlset>
